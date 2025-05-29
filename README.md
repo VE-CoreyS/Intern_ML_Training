@@ -1,2 +1,2 @@
-# Intern_ML_Training
+# Intern ML Training
 Machine Learning Training for Interns
