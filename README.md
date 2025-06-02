@@ -2,6 +2,6 @@
 Machine Learning Training for Interns
 
 
-1.) Rotation algorithm of images - Cameron <br>
-2.) Image gridding algorithm of images - Corey / Skyler <br>
-3.) Scaling / Resizing algorithm of images - Emily
+1.) Image rotation algorithm - Cameron <br>
+2.) Image gridding algorithm - Corey / Skyler <br>
+3.) Image scaling / resizing algorithm - Emily
