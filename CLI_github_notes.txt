@@ -1,0 +1,14 @@
+git config --global user.name
+git config --global user.email
+
+git clone (Copy GitHub https link)
+
+git fetch (to view repository updates that are ahead in time)
+git fetch && git diff HEAD @{u} --name-only
+
+git pull (to go from remote repository to local)
+
+
+git stage "DummyFile.txt" (Telling git to begin tracking these files)
+git commit "DummyFile.txt" (Telling git to commit changes to version history)
+git push (to go from local repository to remote --> by merging your local history with the remote history)
